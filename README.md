@@ -4,6 +4,16 @@
 
 ---
 
+## Tangkapan Layar (*Screenshots*)
+
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 16px; flex-wrap: wrap;">
+  <img src="screenshots/home_screen.png" alt="Home Screen" width="250"/>
+  <img src="screenshots/search_screen.png" alt="Search Screen" width="250"/>
+  <img src="screenshots/favorites_screen.png" alt="Favorites Screen" width="250"/>
+</div>
+
+---
+
 ## Fitur Aplikasi
 
 1. **Cuaca Terkini (*Current Weather*)**
@@ -210,13 +220,3 @@ Seluruh unit test dan widget test menggunakan *mock HTTP client* dan *mock Share
    ```bash
    flutter test
    ```
-
----
-
-## Tangkapan Layar (*Screenshots*)
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 16px; flex-wrap: wrap;">
-  <img src="screenshots/home_screen.png" alt="Home Screen" width="250"/>
-  <img src="screenshots/search_screen.png" alt="Search Screen" width="250"/>
-  <img src="screenshots/favorites_screen.png" alt="Favorites Screen" width="250"/>
-</div>
